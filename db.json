@@ -1,0 +1,158 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Gertrudis Tatterton",
+            "age": 18,
+            "email": "gtatterton0@ehow.com"
+        },
+        {
+            "id": 2,
+            "name": "Gail Newbatt",
+            "age": 53,
+            "email": "gnewbatt1@un.org"
+        },
+        {
+            "id": 3,
+            "name": "Walliw Wilstead",
+            "age": 49,
+            "email": "wwilstead2@tripadvisor.com"
+        },
+        {
+            "id": 4,
+            "name": "Abran Proback",
+            "age": 29,
+            "email": "aproback3@theglobeandmail.com"
+        },
+        {
+            "id": 5,
+            "name": "Roda Chappelow",
+            "age": 31,
+            "email": "rchappelow4@oaic.gov.au"
+        },
+        {
+            "id": 6,
+            "name": "Karney Wylie",
+            "age": 22,
+            "email": "kwylie5@miitbeian.gov.cn"
+        },
+        {
+            "id": 7,
+            "name": "Cammi Pimbley",
+            "age": 63,
+            "email": "cpimbley6@nyu.edu"
+        },
+        {
+            "id": 8,
+            "name": "Gavra Manning",
+            "age": 43,
+            "email": "gmanning7@lycos.com"
+        },
+        {
+            "id": 9,
+            "name": "Zachary Seward",
+            "age": 45,
+            "email": "zseward8@oracle.com"
+        },
+        {
+            "id": 10,
+            "name": "Chucho Norssister",
+            "age": 20,
+            "email": "cnorssister9@mayoclinic.com"
+        },
+        {
+            "id": 11,
+            "name": "Atanu Karmakar",
+            "age": 18,
+            "email": "atanu20uparsole@gmail.com"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Powered iPad 10.2' Swivel Stand",
+            "price": 340,
+            "image": "https://cdn.shopify.com/s/files/1/0183/5769/products/Powered_0002_200710-POWERED-RANGE-IMAGE-TEST.587_400x.png?v=1626828092",
+            "image_hover": "https://cdn.shopify.com/s/files/1/0183/5769/products/Swivel-no-iPad_400x.png?v=1626828092"
+        },
+        {
+            "id": 2,
+            "title": "Powered iPad 10.2' Stand",
+            "price": 250,
+            "image": "https://cdn.shopify.com/s/files/1/0183/5769/products/Powered_0001_200710-POWERED-RANGE-IMAGE-TEST.586_400x.png?v=1626829518",
+            "image_hover": "https://cdn.shopify.com/s/files/1/0183/5769/products/ipad-stand-no-ipad_400x.png?v=1626829518"
+        },
+        {
+            "id": 3,
+            "title": "Powered iPad 10.2 Wall Mount",
+            "price": 210,
+            "image": "https://cdn.shopify.com/s/files/1/0183/5769/products/Powered_0000_200710-POWERED-RANGE-IMAGE-TEST.585_400x.png?v=1626829601",
+            "image_hover": "https://cdn.shopify.com/s/files/1/0183/5769/products/Wall-Mount-no-iPad_400x.png?v=1626829601"
+        },
+        {
+            "id": 4,
+            "title": "Universal Dual Tablet Stand",
+            "price": 299,
+            "image": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---6_0013_DTS-210219-Wr1.167_400x.png?v=1661473812",
+            "image_hover": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---6_0018_DTS-210219-Wr1.159_400x.png?v=1667179552"
+        },
+        {
+            "id": 5,
+            "title": "16-inch MacBook Pro",
+            "price": "From $3,700",
+            "image": "https://cdn.shopify.com/s/files/1/0183/5769/products/macbook-16_0000_mbp16touch-space-gallery1-201911_400x.png?v=1618285124",
+            "image_hover": "https://cdn.shopify.com/s/files/1/0183/5769/products/macbook-16_0001_mbp16touch-silver-gallery1-201911_jpeg_400x.png?v=1618285124"
+        },
+        {
+            "id": 6,
+            "title": "ALOGIC Rapid 2 Car Charger",
+            "price": 49.95,
+            "image": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---7_0000_CRCA57-V3_400x.png?v=1626240392",
+            "image_hover": "https://placeimg.com/640/480/tech"
+        },
+        {
+            "id": 7,
+            "title": "Apple AirPods (Gen 3)",
+            "price": 269,
+            "image": "https://cdn.shopify.com/s/files/1/0183/5769/products/Airpods-3rd-Gen_0000_MME73_AV2_400x.png?v=1634860722",
+            "image_hover": "https://cdn.shopify.com/s/files/1/0183/5769/products/Airpods-3rd-Gen_0006_MME73_400x.png?v=1634860722"
+        },
+        {
+            "id": 8,
+            "title": "Apple iMac 24' Vesa (8 core GPU / 256GB)",
+            "price": 49.95,
+            "image_hover": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3_0009_apple_new-imac-spring21_pf-green-retina-display_04202021_e38c01e0-7192-4b69-8d86-b3cac44dbca0_400x.png?v=1618977565",
+            "image": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3_0006_apple_new-imac-spring21_pf-silver_04202021_2e3dbfeb-7aed-4b21-be7f-fb05045ddeb9_400x.png?v=1618977565"
+        },
+        {
+            "id": 9,
+            "title": "Apple iPad 10.9' (10th Generation)",
+            "price": 719,
+            "image_hover": "https://cdn.shopify.com/s/files/1/0183/5769/products/ipad10-cell-blue_400x.png?v=1666659995",
+            "image": "https://cdn.shopify.com/s/files/1/0183/5769/products/ipad-cell-pink_400x.png?v=1666659996"
+        },
+        {
+            "id": 10,
+            "title": "Apple iPhone 13 Pro",
+            "price": 1699,
+            "image_hover": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-web-images-2021-_0002s_0001s_0000_13Pro-Graphite_400x.png?v=1631856296",
+            "image": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-web-images-2021-_0002s_0001s_0000_13Pro-Graphite_400x.png?v=1631856296"
+        },
+        {
+            "id": 11,
+            "title": "Apple MagSafe Battery Pack",
+            "price": 129,
+            "image_hover": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---7_0000s_0002_MJWY3_AV1_400x.png?v=1626239781",
+            "image": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---7_0000s_0001_MJWY3_AV2_400x.png?v=1626239781"
+        },
+        {
+            "id": 12,
+            "title": "Apple Pencil (1st Generation)",
+            "price": 142,
+            "image_hover": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---2_0004_Layer-9_400x.png?v=1618285079",
+            "image": "https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---2_0003_Layer-7_400x.png?v=1618285079"
+        }
+    ],
+    "cart": [],
+    "rough": []
+}
